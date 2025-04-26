@@ -27,3 +27,34 @@ I tend to use frameworks and containers extremely sparingly and I don't go in fo
 My philosophy tends to be a "git er done" one. 
 
 You will find quite a bit of overlap as my career and skills have progressed. 
+
+Here are all the projects I can recall over the years with employers/clients noted.
+
+ ZX81 - BASIC horse racing ca 1981 (lost to time - not available)
+ ZX81 - BASIC football scores ca 1982 (lost to time - not available)
+ 
+ Atari 800 - 6502 Wire loop game                     ca 1983 (lost to time - not available)
+ Atari 800 - BASIC Drum machine                      ca 1983 (lost to time - not available)
+ Atari 800 - BASIC 6502 assembler/disassembler       ca 1984 (lost to time - not available)
+ Atari 800 - 6502 joystick control with dynamic code ca 1985 (lost to time - not available)
+ 
+ BBC B - BASIC 6502 Assembler/disassembler           ca 1984 (lost to time - not available)
+ BBC B - BASIC Radar simulation                      ca 1986 (lost to time - not available)
+ 
+ Archie A3000 - BASIC Oligonucleotide simulation     ca 1989 (lost to time - University of Liverpool - not available)
+
+ IBM Mainframe - TELON programs for personnel system ca 1990 (J Sainsbury plc - not available)
+ IBM Mainframe - COBOL PCL printing tools            ca 1992 (J Sainsbury plc - not available)
+ IBM Mainframe - COBOL Railroad shift planner        ca 1993 (ATSF Railroad - not available)
+ IBM Mainframe - COBOL DB2 auto optimisation         ca 1994 (JC Penney - not available)
+ IBM Mainframe - Workforce hours aggregator          ca 1994 (JC Penney - not available)
+
+ HPUX - C code generator for boilerplate             ca 1995 (Sprint - not available)
+ HPUX - Motif UIs                                    ca 1995 (Sprint - not available)
+
+ Windows - MQ Series code generator ca 1995 (IBM - not available)
+ OS/2 - Insurance claims UI ca 1995  
+ 
+research assistant at the University of Liverpool in 
+
+
